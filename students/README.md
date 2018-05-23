@@ -1,3 +1,5 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/RbkCrypto/SchoolNetwork.svg?columns=all)](https://waffle.io/RbkCrypto/SchoolNetwork) 
+
 # students
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
